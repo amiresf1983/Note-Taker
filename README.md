@@ -14,9 +14,9 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 The following images show the web application's appearance and functionality:
 
-![initial page.](./Assets/1.png)
-![ready for new notes.](./Assets/2.png)
-![new note saved.](./Assets/3.png)
-![view all saved notes on left hand side.](./Assets/4.png)
+![initial page.](./assets/1.png)
+![ready for new notes.](./assets/2.png)
+![new note saved.](./assets/3.png)
+![view all saved notes on left hand side.](./assets/4.png)
 
 ## HEROKU Deployed application link
